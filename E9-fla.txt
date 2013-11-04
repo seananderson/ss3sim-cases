@@ -1,6 +1,6 @@
 #description: fixed M with no qSurvey, fixed steepness
 #author: KO
-natM_type;          NULL      
+natM_type; NA      
 natM_n_breakpoints; NULL  
 natM_lorenzen;      NULL
 natM_val;           c(NA,NA)
